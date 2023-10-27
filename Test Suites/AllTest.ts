@@ -23,35 +23,44 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/CreateAccount/CreateAccountInvalid</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b8d9d4af-1cbb-4067-8d65-2a7ce61b3889</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/User</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b8d9d4af-1cbb-4067-8d65-2a7ce61b3889</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
          <variableId>1ce6aebd-a567-4e65-94ff-df2b2d4b0fa2</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b8d9d4af-1cbb-4067-8d65-2a7ce61b3889</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
          <variableId>8be7db2c-4b17-445c-ad92-deb7b581232b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b8d9d4af-1cbb-4067-8d65-2a7ce61b3889</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>passwordConfirm</value>
          <variableId>a43681f5-d4cb-41bf-ac48-1b3ab0faa9f3</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b8d9d4af-1cbb-4067-8d65-2a7ce61b3889</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>error</value>
          <variableId>2cdbc8d7-869b-406a-b21b-9a94a419b04b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>b8d9d4af-1cbb-4067-8d65-2a7ce61b3889</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>privacyPolicy</value>
          <variableId>aeaa8c3b-341b-478e-bc00-acf26a3c8077</variableId>
       </variableLink>
    </testCaseLink>
