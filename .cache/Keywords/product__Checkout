@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "0379CACF3004B0CD59C5419C1AD3E9BB",
+  "keywordClasses": [
+    {
+      "name": "product.Checkout",
+      "keywordMethods": [
+        {
+          "name": "checkout",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

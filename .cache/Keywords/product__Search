@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "8D7B73C27BC420BF5FC2DA5E27CC92EF",
+  "keywordClasses": [
+    {
+      "name": "product.Search",
+      "keywordMethods": [
+        {
+          "name": "searchProduct",
+          "parameters": [
+            {
+              "name": "product",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

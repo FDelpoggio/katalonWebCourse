@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>User</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>b27d43a7-8e9a-4f74-8523-c347afc017f3</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>test%2Bfdelpoggio%40test.com test test Warning%3A+E-Mail+Address+is+already+registered%21 true</data>
+   <data>test%2Bfdelpoggio1%40test.com test test1 Password+confirmation+does+not+match+password%21 true</data>
+   <data>test%2Bfdelpoggio1%40test.com test test1 Warning%3A+You+must+agree+to+the+Privacy+Policy%21 false</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>email</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>password</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>passwordConfirm</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>error</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>privacyPolicy</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

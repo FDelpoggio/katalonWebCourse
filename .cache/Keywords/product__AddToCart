@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "21D068209BC09FB77FBB09B34A56181F",
+  "keywordClasses": [
+    {
+      "name": "product.AddToCart",
+      "keywordMethods": [
+        {
+          "name": "addToCart",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
